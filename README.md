@@ -2,6 +2,7 @@
 
 - A simple notes app made in node js which utilises command line feature.
 - Enter the notes using command line arguments
+- Try it and take your notes.
 
 ## HOW TO USE IT
 
